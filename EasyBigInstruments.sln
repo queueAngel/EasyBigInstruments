@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.1.11304.174 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyBigInstruments", "EasyBigInstruments.csproj", "{8611B39F-53EF-C23F-7940-E31461D08FC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8611B39F-53EF-C23F-7940-E31461D08FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8611B39F-53EF-C23F-7940-E31461D08FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8611B39F-53EF-C23F-7940-E31461D08FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8611B39F-53EF-C23F-7940-E31461D08FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8239955-37F6-422F-B56E-85C186FB3498}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<!-- Import tModLoader mod properties -->
+	<Import Project="..\tModLoader.targets" />
+
+	<!-- General -->
+	<PropertyGroup>
+		
+	</PropertyGroup>
+	<ItemGroup>
+	  <PackageReference Include="Krafs.Publicizer" Version="2.3.0">
+	    <PrivateAssets>all</PrivateAssets>
+	    <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+	  </PackageReference>
+	  <Publicize Include="ThoriumMod" />
+	</ItemGroup>
+
+	<!-- References -->
+	<ItemGroup>
+		<Reference Include="ThoriumMod">
+			<HintPath>lib\ThoriumMod.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+
+</Project>

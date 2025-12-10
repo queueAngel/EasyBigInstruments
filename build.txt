@@ -1,0 +1,5 @@
+displayName = No Big Instrument Timer - Thorium
+author = qAngel
+version = 0.1
+modReferences = ThoriumMod
+buildIgnore = *.csproj, *.user, obj\*, bin\*, lib\*

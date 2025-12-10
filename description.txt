@@ -1,0 +1,1 @@
+Removes the timing mechanic from Thorium's Big Instruments (tooltips will still describe said mechanic but the mechanic won't be active if this mod is active.)
