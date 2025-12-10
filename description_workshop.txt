@@ -1,1 +1,9 @@
-This description will show up on the steam page, check out https://steamcommunity.com/comment/Guide/formattinghelp.
+[url=https://discord.gg/4PDwPnz9Jm]Discord Server[/url] | [url=https://github.com/queueAngel/EasyBigInstruments]GitHub (Source Code)[/url]
+
+[h1]No Big Instrument Timer[/h1]
+
+Simply removes the timing mechanic from Thorium's Big Instruments. This is done by making all big instrument hits into "successful" hits and removing the timer UI element.
+
+[i]Like this mod? Like this mod![/i]
+
+[img]https://i.imgur.com/ki1CPZe.gif[/img]
